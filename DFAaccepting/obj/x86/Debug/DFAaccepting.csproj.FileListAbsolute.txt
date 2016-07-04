@@ -1,0 +1,9 @@
+c:\users\iman\documents\visual studio 2010\Projects\DFAaccepting\DFAaccepting\bin\Debug\DFAaccepting.exe
+c:\users\iman\documents\visual studio 2010\Projects\DFAaccepting\DFAaccepting\bin\Debug\DFAaccepting.pdb
+c:\users\iman\documents\visual studio 2010\Projects\DFAaccepting\DFAaccepting\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\iman\documents\visual studio 2010\Projects\DFAaccepting\DFAaccepting\obj\x86\Debug\DFAaccepting.Form1.resources
+c:\users\iman\documents\visual studio 2010\Projects\DFAaccepting\DFAaccepting\obj\x86\Debug\DFAaccepting.Properties.Resources.resources
+c:\users\iman\documents\visual studio 2010\Projects\DFAaccepting\DFAaccepting\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\iman\documents\visual studio 2010\Projects\DFAaccepting\DFAaccepting\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\iman\documents\visual studio 2010\Projects\DFAaccepting\DFAaccepting\obj\x86\Debug\DFAaccepting.exe
+c:\users\iman\documents\visual studio 2010\Projects\DFAaccepting\DFAaccepting\obj\x86\Debug\DFAaccepting.pdb
